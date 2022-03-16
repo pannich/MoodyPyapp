@@ -259,7 +259,6 @@ def main():
                 my_bar.progress(percent_complete + 1)
 
 
-            from streamlit_hadjer import retrieve_model
 
             model = retrieve_model()
 
