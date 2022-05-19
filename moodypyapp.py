@@ -26,19 +26,8 @@ from cvzone.FaceDetectionModule import FaceDetector
 
 
 RTC_CONFIGURATION = RTCConfiguration(
-    {"iceServers": [{"urls": ["stun:stun4.l.google.com:19302"]}]}
+    {"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]}
 )
-
-##use TURN
-# RTC_CONFIGURATION = RTCConfiguration(
-#     {
-#       "RTCIceServer": [{
-#         "urls": ["turn:192.158.29.39:3478?transport=tcp"],
-#         "username": "28224511:1379330808",
-#         "credential": "JZEOEt2V3Qb0y27GRntt2u2PAYA=",
-#       }]
-#     }
-# )
 
 
 #Create a dict for classes
