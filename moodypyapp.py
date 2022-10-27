@@ -221,6 +221,7 @@ def main():
         - As a result we decided to develop a realtime Emotion Detector, allowing AI to emphasise more with humans.
         - This allows for endless possibilities to advance AI applications in areas such as healthcare or detecting drunk drivers.
         ### Try it out yourself: how are you feeling today? :blush:
+        (Warning: please get very close to a strong wifi router)
         ''')
 
          app_emotion_detection()
