@@ -3,19 +3,19 @@
 streamlit==1.2.0
 streamlit-webrtc==0.31.3
 aiortc==1.2.1
-av
+av==8.1.0
 
 #for Deep learning model
 tensorflow==2.5.0
 
 #for handling image
-opencv-python
+opencv-python==4.5.5.64
 opencv-python-headless==4.5.5.62
 opencv-contrib-python-headless==4.5.5.62
-mediapipe
-cvzone
-altair
-pandas
+mediapipe==0.8.9.1
+cvzone==1.5.6
+altair==4.2.0
+pandas==1.4.1
 Pillow==9.0.0
 
 #other
