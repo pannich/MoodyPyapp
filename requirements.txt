@@ -1,7 +1,7 @@
 
 #for streamlit
 streamlit
-streamlit-webrtc==0.31.3
+streamlit-webrtc
 aiortc==1.2.1
 av==8.1.0
 
