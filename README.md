@@ -1,9 +1,8 @@
-WebApp:
-https://github.com/pannich/MoodyPyapp
+# WebApp
+[MoodyPyapp on GitHub](https://github.com/pannich/MoodyPyapp)
 
-
-== direction ==
+## Directions
 Press start and smile!
 
-Youtube:
-https://www.youtube.com/watch?v=4U9WWOfc7v8
+# Youtube
+Watch the demo on [YouTube](https://www.youtube.com/watch?v=4U9WWOfc7v8)
