@@ -1,7 +1,7 @@
 # WebApp
 [MoodyPyapp on GitHub](https://github.com/pannich/MoodyPyapp)
 
-==Directions== \n
+== Directions ==  
 Press start and smile!
 
 # Youtube
