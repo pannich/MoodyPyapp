@@ -20,4 +20,4 @@ Pillow==9.0.0
 
 #other
 matplotlib==3.5.1
-numpy==1.19.5
+numpy==1.20
