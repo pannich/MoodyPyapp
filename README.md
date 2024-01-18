@@ -1,5 +1,5 @@
 # WebApp
-[MoodyPyapp on GitHub](https://github.com/pannich/MoodyPyapp)
+[MoodyPyapp on Streamlit](https://share.streamlit.io/pannich/moodypyapp/main/moodypyapp.py)
 
 == Directions ==  
 Press start and smile!
