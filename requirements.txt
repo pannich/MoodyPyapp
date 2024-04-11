@@ -6,7 +6,7 @@ aiortc==1.2.1
 av==8.1.0
 
 #for Deep learning model
-tensorflow==2.11.0
+tensorflow==2.12.0
 
 #for handling image
 opencv-python==4.5.5.64
