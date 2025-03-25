@@ -1,4 +1,4 @@
-# WebApp
+# MoodyPy Live Demo
 Before you begin please watch this [Live Demo](https://www.youtube.com/watch?v=4U9WWOfc7v8)
 
 [MoodyPyapp on Streamlit](https://moodypyapp-nichada.streamlit.app/)
